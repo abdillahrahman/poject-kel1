@@ -28,7 +28,7 @@
                 <form action="{{ route('authenticate') }}" method="post">
                     @csrf
                     <div class="mb-2 row">
-                        <label for="email" class="col-md-11 col-form-label text-start">Email Address</label> <!-- Mengubah kelas col-md-4 menjadi col-md-12 -->
+                        <label for="email" class="col-md-11 col-form-label text-start">Email</label> <!-- Mengubah kelas col-md-4 menjadi col-md-12 -->
                         <div class="col-md-12"> <!-- Mengubah lebar kolom menjadi 12 -->
                           <input type="email" class="form-control @error('email') is-invalid @enderror" type="email" "id="email" name="email" value="{{ old('email') }}">
                             @if ($errors->has('email'))
