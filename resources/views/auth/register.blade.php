@@ -29,7 +29,7 @@
                 <form action="{{ route('store') }}" method="post">
                     @csrf
                     <div class="mb-2 row">
-                        <label for="name" class="col-md-12 col-form-label text-start">Name</label>
+                        <label for="name" class="col-md-12 col-form-label text-start">Nama Siapa :</label>
                         <div class="col-md-12">
                           <input type="text" class="form-control @error('name') is-invalid @enderror" id="name" name="name" value="{{ old('name') }}">
                             @if ($errors->has('name'))
