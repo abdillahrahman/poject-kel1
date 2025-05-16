@@ -8,10 +8,10 @@
 
 ---
 
-## 📚 Deskripsi Proyek
+## 📚 Deskripsi Project
 
-Proyek ini merupakan bagian dari kegiatan **Project Based Learning (PBL)** Jurusan Teknologi Informasi tahun 2024.  
-Tujuan utama dari SIWATA adalah memberikan solusi digital yang mendukung proses penjadwalan sidang tugas akhir secara otomatis, akurat, dan mudah diakses oleh pihak akademik.
+Project ini merupakan bagian dari kegiatan **Project Based Learning (PBL)** Jurusan Teknologi Informasi semester genap tahun 2023/2024.  
+Tujuan utama dari SIWATA adalah memberikan solusi unutk proses penjadwalan sidang proposal dan tugas akhir dengan mudah, akurat, dan mudah diakses oleh jurusan.
 
 ---
 
@@ -25,10 +25,9 @@ Tujuan utama dari SIWATA adalah memberikan solusi digital yang mendukung proses 
 ## ✨ Fitur Utama
 
 - Manajemen data mahasiswa dan dosen
-- Penjadwalan otomatis sidang tugas akhir
-- Penugasan dosen pembimbing dan penguji
-- Tampilan jadwal sidang yang mudah dibaca
-- Sistem autentikasi untuk admin, dosen, dan mahasiswa
+- Penjadwalan seminar proposal dan sidang tugas akhir
+- Input nilai unutk dosen pembimbing dan penguji
+- Dashboard Admin untuk kelola data dan user
 - Dashboard statistik dan laporan
 
 ---
